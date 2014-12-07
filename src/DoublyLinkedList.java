@@ -15,6 +15,7 @@ class NodeDLL
 		return " " + data +" ";
 	}
 }
+
 class DLList
 {
 	protected NodeDLL first;
